@@ -13,7 +13,9 @@ MelodyTracks is an iOS application that syncs a user's footsteps with the BPM of
 
 ### Installation
 
-First, install Cocoapods
+First, <a href="https://guides.cocoapods.org/using/getting-started.html" target="_blank">`install Cocoapods`</a>
+
+
 
 Then, install Xcode
 
