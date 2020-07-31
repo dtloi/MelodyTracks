@@ -5,8 +5,11 @@ MelodyTracks is an iOS application that syncs a user's footsteps with the BPM of
 ### Features
 
 Audio Manipulation
+
 Music Player
+
 Map
+
 
 ### Installing
 
@@ -39,10 +42,15 @@ in Xcode
 ## Built With
 
 Swift
+
 Maps
+
 CoreMotion
+
 CoreLocation
+
 MapKit
+
 AVAudioEngine
 
 ## Authors
