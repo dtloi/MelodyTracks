@@ -10,7 +10,7 @@ MelodyTracks is an iOS application that syncs a user's footsteps with the BPM of
 
 ### How It Works
 
-[![INSERT YOUR GRAPHIC HERE](https://raw.githubusercontent.com/dtloi/MelodyTracks/master/README_stuff/How_It_Works.png)]()
+[![How It Works](https://raw.githubusercontent.com/dtloi/MelodyTracks/master/README_stuff/How_It_Works.png)]()
 
 ### Installation
 
