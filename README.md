@@ -1,6 +1,6 @@
 # MelodyTracks
 
-MelodyTracks is an iOS application that syncs a user's footsteps with the BPM of a song. The goal of this app
+MelodyTracks is an iOS application that syncs a user's footsteps with the BPM of a song. The goal of this app is to help a user maintain their running pace by matching it to the beat of a song. 
 
 ### Features
 
